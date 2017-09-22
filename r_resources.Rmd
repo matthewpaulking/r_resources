@@ -1,0 +1,27 @@
+---
+title: "R Resources"
+author: "Matthew King (HDMS Systems Manager)"
+date: "September 22, 2017"
+output: 
+  html_document:
+    theme: yeti
+---
+
+# Links you will probably find useful
+
+
+* #### Books, Classes, or Tutorials
+[R for Data Science (Free Book!)](http://r4ds.had.co.nz/)  
+[Advanced R](https://adv-r.hadley.nz/)  
+[Data Challenge Lab](https://dcl-2017-04.github.io/curriculum/)
+
+* #### Shiny Specific
+[https://shiny.rstudio.com/](https://shiny.rstudio.com/)  
+[R Leaflet](https://rstudio.github.io/leaflet/)  
+[DataTables: `DT` package](https://rstudio.github.io/DT/)  
+[StackOverflow: Publish Rstudio Shiny App in intranet](https://stackoverflow.com/questions/23750096/publish-rstudio-shiny-app-in-intranet) - How to set up your Shiny App locally without going through a hosting service  
+[StackOverflow: Starting Shiny app after password input](https://stackoverflow.com/questions/28987622/starting-shiny-app-after-password-input) - Hacky way to do login/password without using Shiny Server
+
+
+# Get your R/Shiny On!
+![](img/shiny.gif)
