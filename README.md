@@ -1,4 +1,4 @@
-# Just a place for my R/Shiny resources Rmd/HTML doc to live
+# Just a repo for my R/Shiny resources to live
 
 Download the r_resources.html (save it to your computer and open from there)
 
