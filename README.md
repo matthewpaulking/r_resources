@@ -1,1 +1,1 @@
-# r_resources
+# Just a place for my R/Shiny resources Rmd/HTML doc to live
