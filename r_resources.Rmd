@@ -1,13 +1,13 @@
 ---
 title: "R Resources"
-author: "Matthew King (HDMS Systems Manager)"
-date: "September 22, 2017"
+author: "Matthew King - HDMS Systems Manager @ AZ Game and FIsh Dept."
+date: "September 25, 2017"
 output: 
   html_document:
     theme: yeti
 ---
 
-# Links you will probably find useful
+# Some links to get you started (to be added to!)
 
 
 * #### Books, Classes, or Tutorials
