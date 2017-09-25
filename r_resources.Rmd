@@ -1,6 +1,6 @@
 ---
 title: "R Resources"
-author: "Matthew King - HDMS Systems Manager @ AZ Game and FIsh Dept."
+author: "Matthew King - HDMS Systems Manager @ AZ Game and Fish Dept."
 date: "September 25, 2017"
 output: 
   html_document:
